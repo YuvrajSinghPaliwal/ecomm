@@ -1,0 +1,12 @@
+package com.app.ecomm.enums;
+
+public enum ACCOUNT_STATUS {
+
+	PENDING_VERIFICATION,
+	ACTIVE,
+	SUSPENDED,
+	DEACTIVATED,
+	DELETED,
+	BANNED,
+	CLOSED, 
+}
